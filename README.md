@@ -1,6 +1,6 @@
 
 
-## 💜 Olá, meu nome é <strong>Júlia!</strong>
+## 💜 Olá, meu nome é <strong>Julia!</strong>
 
 :rocket: Web development student <a href="https://www.betrybe.com/" target="blank"> @trybe </a>
 
