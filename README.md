@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é <strong>Julia!</strong>
 
-:rocket: Web development student <a href="https://www.betrybe.com/" target="blank"> @trybe </a>
+<p>Seja bem-vindo(a), eu me chamo Júlia, tenho 29 anos e moro em São José dos Campos. Atualmente estou em transição de carreira, migrando pra área de Desenvolvimento de Software/Web.</p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
@@ -36,10 +36,10 @@
     </section>
 </div>
 
-<h3  align="center">:heartpulse: Connect with me</h3>  
+<h3  align="center">:heartpulse: Meus contatos</h3>  
 <div align="center">
-  <a href="https://www.linkedin.com/in/julialanapatto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:julialanapatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/julialanapatto" target="_blank"><img heigth="200px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:julialanapatto@gmail.com"><img heigth="200px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
 <hr>
 <h3 align="center">Profile Stats</h3>
