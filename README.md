@@ -1,14 +1,12 @@
 
 
-## 💜 Olá, meu nome é <strong>Julia!</strong>
-
-<p>Seja bem-vindo(a), eu me chamo Julia, tenho 29 anos e moro em São José dos Campos. Atualmente estou em transição de carreira, migrando pra área de Desenvolvimento de Software/Web.</p>
+## 💜 Oi, meu nome é <strong>Julia!</strong>
+<br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
-    <h4><strong>Curtiu?</strong></h4>
-    <h4><strong>Mais alguns fatos interessantes :)</strong></h4>
+    <h4><strong>Alguns fatos interessantes sobre mim :)</strong></h4>
     <li>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
     <li>📚 No meu tempo livre amo ler, escrever e desenhar</li>
     <li>⭐ Fato aleatório: Amo um Café bem quente e sem açúcar ☕ </li>
@@ -16,6 +14,7 @@
     <li>💌 Vamos conversar, fique a vontade para entrar em contato comigo.</li>
   </div>
 </div>
+<br>
 <br>
 <hr>
 <div align="center">
