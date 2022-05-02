@@ -2,7 +2,7 @@
 
 ## 💜 Olá, meu nome é <strong>Julia!</strong>
 
-<p>Seja bem-vindo(a), eu me chamo Júlia, tenho 29 anos e moro em São José dos Campos. Atualmente estou em transição de carreira, migrando pra área de Desenvolvimento de Software/Web.</p>
+<p>Seja bem-vindo(a), eu me chamo Julia, tenho 29 anos e moro em São José dos Campos. Atualmente estou em transição de carreira, migrando pra área de Desenvolvimento de Software/Web.</p>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
