@@ -7,9 +7,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
     <h4><strong>Sobre mim :)</strong></h4>
+    <ul>:woman_technologist: Desenvolvedora back-end @XPInc </ul>
+    <ul>:mage_woman: Atualmente desenvolvendo em c# </ul>
     <ul>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc </ul>
-    <ul>📚 No meu tempo livre amo ler e fazer arte: desenhar e pintar aquarela </ul>
-    <ul>🚲 Sou formada em Nutrição e apaixonada pela área esportiva </ul>
+    <ul>🚲 Também sou formada em Nutrição e apaixonada pela área esportiva </ul>
     <ul>💌 Vamos conversar, fique a vontade para entrar em contato comigo </ul>
   </div>
 </div>
