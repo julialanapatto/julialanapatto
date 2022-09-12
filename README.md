@@ -7,11 +7,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
     <h4><strong>Sobre mim :)</strong></h4>
-    <ul>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
-    <ul>📚 No meu tempo livre amo ler, escrever e desenhar</li>
-    <ul>⭐ Fato aleatório: Amo um Café bem quente e sem açúcar ☕ </li>
-    <ul>⭐ Fato aleatório 2: Também sou formada em Nutrição  </li>
-    <ul>💌 Vamos conversar, fique a vontade para entrar em contato comigo.</li>
+    <ul>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc </ul>
+    <ul>📚 No meu tempo livre amo ler, escrever e desenhar </ul>
+    <ul>⭐ Fato aleatório: Também sou formada em Nutrição, principalmente clínica esportiva </ul>
+    <ul>💌 Vamos conversar, fique a vontade para entrar em contato comigo </ul>
   </div>
 </div>
 <br>
