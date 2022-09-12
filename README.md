@@ -1,17 +1,17 @@
 
 
-## 💜 Oi, meu nome é <strong>Julia!</strong>
+## 💜 Oi, meu nome é <strong>Julia!</strong>, mas pode me chamar de Ju
 <br>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="200px" max-width="200px" width="300px" align="right" alt="Computador">
   <div align="left" style="display: inline_block">
-    <h4><strong>Alguns fatos interessantes sobre mim :)</strong></h4>
-    <li>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
-    <li>📚 No meu tempo livre amo ler, escrever e desenhar</li>
-    <li>⭐ Fato aleatório: Amo um Café bem quente e sem açúcar ☕ </li>
-    <li>⭐ Fato aleatório 2: Também sou formada em Nutrição  </li>
-    <li>💌 Vamos conversar, fique a vontade para entrar em contato comigo.</li>
+    <h4><strong>Sobre mim :)</strong></h4>
+    <ul>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc</li>
+    <ul>📚 No meu tempo livre amo ler, escrever e desenhar</li>
+    <ul>⭐ Fato aleatório: Amo um Café bem quente e sem açúcar ☕ </li>
+    <ul>⭐ Fato aleatório 2: Também sou formada em Nutrição  </li>
+    <ul>💌 Vamos conversar, fique a vontade para entrar em contato comigo.</li>
   </div>
 </div>
 <br>
