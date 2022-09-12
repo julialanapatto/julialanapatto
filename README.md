@@ -8,7 +8,7 @@
   <div align="left" style="display: inline_block">
     <h4><strong>Sobre mim :)</strong></h4>
     <ul>🔭 Estudante Desenvolvimento Web na <a href="https://betrybe.com">Trybe</a> em parceria com a XP Inc </ul>
-    <ul>📚 No meu tempo livre amo ler e fazer de arte: desenhar e pintar aquarela </ul>
+    <ul>📚 No meu tempo livre amo ler e fazer arte: desenhar e pintar aquarela </ul>
     <ul>🚲 Sou formada em Nutrição e apaixonada pela área esportiva </ul>
     <ul>💌 Vamos conversar, fique a vontade para entrar em contato comigo </ul>
   </div>
