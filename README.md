@@ -1,6 +1,6 @@
 
 
-## 💜 Oi, meu nome é Julia, mas pode me chamar de Ju
+## oi, meu nome é Julia, mas pode me chamar de Ju 🤍
 <br>
 
 <div align="center">
